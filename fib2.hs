@@ -1,4 +1,3 @@
-
 -- a faster fibonacci
 -- but I'm obviously missing lambdas
 

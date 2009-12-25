@@ -1,5 +1,7 @@
 
 -- this has some serious flaws, but I'm trying
+-- That's fine, it takes some serious getting used to
+-- to do things right in Haskell. 
 
 
 split1 :: (Char, String) -> String

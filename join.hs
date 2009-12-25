@@ -1,4 +1,3 @@
-
 join :: (String, [String]) -> String
 join (j, []) = "" -- probably unneeded
 join (j, (x:[])) = x
